@@ -1,1 +1,4 @@
-# Smart-Home-MQTT-Anomaly-Detection-System
+
+```python
+def monitor_mqtt():
+    print("Listening for anomalies...")
