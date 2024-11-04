@@ -20,6 +20,6 @@ Mosquitto is an open-source MQTT broker that manages message distribution in the
 - **Linux**: Use the following commands:
 
 - bash
-- sudo apt update
+. sudo apt update
 - sudo apt install mosquitto mosquitto-clients
 - sudo systemctl enable mosquitto # Start Mosquitto on boot
