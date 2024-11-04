@@ -1,4 +1,4 @@
-# Smart Home MQTT Anomaly Detection System - Initialization
+# IOT MQTT Anomaly Detection System - Initialization
 
 This branch provides instructions to set up the development environment for the Smart Home MQTT Anomaly Detection System, including installing required tools and dependencies.
 
